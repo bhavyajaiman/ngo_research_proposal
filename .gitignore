@@ -21,7 +21,6 @@ GFW_AGB_2022.tif
 GFW_AGB_2022.tif.aux.xml
 GFW_AGB_SD.tif.aux.xml
 GFW_SD_2022.tif
-global_biomass.py
 haldwani_2013.csv
 Haldwani_2015_CCI.csv
 haldwani_2015.csv
@@ -62,7 +61,6 @@ haldwani_global_product.prj
 haldwani_global_product.shp
 haldwani_global_product.shx
 Haldwani_Plots.csv
-workflow.png
 2018_2023_data/2018_2023_data.cpg
 2018_2023_data/2018_2023_data.dbf
 2018_2023_data/2018_2023_data.shp
